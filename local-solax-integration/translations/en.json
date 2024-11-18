@@ -1,0 +1,10 @@
+{
+    "title": "Solax Local API",
+    "step": {
+      "user": {
+        "title": "Configure Solax Inverter",
+        "description": "Enter your Solax inverter's host and password."
+      }
+    }
+  }
+  

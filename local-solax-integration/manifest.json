@@ -1,0 +1,11 @@
+{
+    "domain": "solax_local",
+    "name": "Solax Local API",
+    "documentation": "https://github.com/your-username/solax_local",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@rafaelhutter"],
+    "version": "1.0.0",
+    "config_flow": true
+  }
+  
